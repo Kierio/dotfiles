@@ -12,5 +12,8 @@ You don't really need to do anything, except if you intend to use a remote LSP s
 - nvim
   - Includes LazyVim
   - Includes remote LSP config
+- wezterm
+  - Sets font to `FiraCode`
+  - Sets theme to match nvim (Tokyo Night Moon)
 
 That's really about it. Enjoy!
