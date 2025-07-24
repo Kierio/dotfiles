@@ -1,7 +1,6 @@
 # Install
 
-1. `sudo apt update`
-2. `sudo apt install socat lazygit gcc build-essential neovim git curl gpg ripgrep`
+1. `sudo apt update && sudo apt install -y socat lazygit gcc build-essential neovim git curl gpg ripgrep && git clone https://github.com/Kierio/dotfiles.git > ~/.config/`
 
 # Configure
 You don't really need to do anything, except if you intend to use a remote LSP server, updated `~/.config/nvim/lua/plugins/lsp.lua` to point to it.
