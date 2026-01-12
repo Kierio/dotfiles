@@ -1,0 +1,14 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.coding.neogen",
+    "lazyvim.plugins.extras.editor.refactoring",
+    "lazyvim.plugins.extras.editor.telescope",
+    "lazyvim.plugins.extras.formatting.prettier",
+    "lazyvim.plugins.extras.lang.typescript"
+  ],
+  "install_version": 8,
+  "news": {
+    "NEWS.md": "11866"
+  },
+  "version": 8
+}
